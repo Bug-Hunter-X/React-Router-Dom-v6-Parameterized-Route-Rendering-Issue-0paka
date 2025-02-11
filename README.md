@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router Dom v6 where a route with parameters fails to render correctly when accessed directly, but works after navigating to another route first.  The issue involves the dynamic segment ':id' in the URL.  A solution is provided that fixes the rendering problem.
